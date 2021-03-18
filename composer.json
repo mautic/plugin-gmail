@@ -1,0 +1,11 @@
+{
+  "name": "mautic/gmail",
+  "description": "Gmail Plugin",
+  "type": "mautic-plugin",
+  "version": "1.0",
+  "keywords": ["mautic","plugin","integration"],
+  "extra": {
+    "install-directory-name": "MauticGmailBundle"
+  },
+  "minimum-stability": "dev"
+}
