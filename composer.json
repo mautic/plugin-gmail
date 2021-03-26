@@ -1,5 +1,5 @@
 {
-  "name": "mautic/gmail",
+  "name": "mautic/plugin-gmail",
   "description": "Gmail Plugin",
   "type": "mautic-plugin",
   "version": "1.0",
